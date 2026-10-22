@@ -39,11 +39,13 @@ print(b+c) # = RamSai
 print(a,x) # = Abhi30
 
 
-age = 21
+# age = 21
 # Age = age +1
 # print(age)
 # # print(Age)
-print(type(age))
+# print(type(age))
 
 a=10
 print(type(a))
+
+
